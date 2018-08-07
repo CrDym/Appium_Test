@@ -1,0 +1,202 @@
+2018-08-07 14:43:31,196 desired_caps.py[line:32] INFO start app...
+2018-08-07 14:49:59,894 desired_caps.py[line:32] INFO start app...
+2018-08-07 15:12:57,612 desired_caps.py[line:32] INFO start app...
+2018-08-07 15:13:14,162 common_fun.py[line:28] INFO swipeLeft
+2018-08-07 15:13:14,701 common_fun.py[line:28] INFO swipeLeft
+2018-08-07 15:13:15,214 common_fun.py[line:13] INFO =========check openBtn=============
+2018-08-07 15:13:17,669 common_fun.py[line:43] INFO get startApp screenshot
+2018-08-07 15:14:27,226 desired_caps.py[line:32] INFO start app...
+2018-08-07 15:14:44,695 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 15:14:45,719 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 15:14:46,733 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 15:14:48,484 common_fun.py[line:44] INFO get startApp screenshot
+2018-08-07 15:36:54,723 desired_caps.py[line:32] INFO start app...
+2018-08-07 15:37:11,108 loginView.py[line:28] INFO ============滑动跳过引导页==============
+2018-08-07 15:37:11,110 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 15:37:11,670 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 15:37:12,219 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 15:37:14,902 loginView.py[line:33] INFO ============开始登录==============
+2018-08-07 15:37:14,902 loginView.py[line:35] INFO click mineBtn
+2018-08-07 15:37:16,210 loginView.py[line:38] INFO click userBtn
+2018-08-07 15:37:17,824 loginView.py[line:41] INFO click loginBtn
+2018-08-07 15:37:19,336 loginView.py[line:44] INFO username is:18380477273
+2018-08-07 15:37:24,511 loginView.py[line:47] INFO password is:111111
+2018-08-07 15:37:29,624 loginView.py[line:50] INFO click loginBtn
+2018-08-07 15:37:30,736 loginView.py[line:52] INFO login finished!
+2018-08-07 16:19:00,886 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:19:18,318 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:19:18,318 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:19:18,862 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:19:19,391 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 16:19:21,490 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:19:21,491 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:19:22,731 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:19:25,664 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:19:26,782 loginView.py[line:41] INFO username is:18380477273
+2018-08-07 16:19:32,007 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:19:37,287 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:19:38,306 loginView.py[line:49] INFO login finished!
+2018-08-07 16:19:38,306 loginView.py[line:52] INFO ====check_loginStatus======
+2018-08-07 16:19:40,784 loginView.py[line:60] INFO login success!
+2018-08-07 16:19:40,785 loginView.py[line:65] INFO =====logout_action======
+2018-08-07 16:19:42,090 loginView.py[line:65] INFO =====logout_action======
+2018-08-07 16:21:04,859 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:21:25,555 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:21:25,555 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:21:26,089 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:21:26,661 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 16:21:29,191 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:21:29,191 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:21:30,287 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:21:32,607 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:21:33,840 loginView.py[line:41] INFO username is:18380477273
+2018-08-07 16:21:39,157 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:21:44,285 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:21:45,307 loginView.py[line:49] INFO login finished!
+2018-08-07 16:21:45,307 loginView.py[line:52] INFO ====check_loginStatus======
+2018-08-07 16:21:46,348 loginView.py[line:60] INFO login success!
+2018-08-07 16:21:46,348 loginView.py[line:65] INFO =====logout_action======
+2018-08-07 16:41:27,305 run.py[line:20] INFO 开始执行测试...
+2018-08-07 16:41:27,307 myunit.py[line:8] INFO =====setUp====
+2018-08-07 16:41:27,310 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:41:44,318 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2018-08-07 16:41:44,319 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 16:41:44,328 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:41:44,329 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:41:44,860 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:41:45,376 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 16:41:48,375 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:41:48,375 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:41:50,001 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:41:51,498 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:41:53,392 loginView.py[line:41] INFO username is:18380477273
+2018-08-07 16:41:58,563 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:42:03,731 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:42:04,808 loginView.py[line:49] INFO login finished!
+2018-08-07 16:42:04,809 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 16:42:06,618 loginView.py[line:60] INFO 登录成功!
+2018-08-07 16:42:06,618 loginView.py[line:65] INFO =====退出登录======
+2018-08-07 16:42:08,043 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 16:42:13,982 myunit.py[line:8] INFO =====setUp====
+2018-08-07 16:42:13,986 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:42:33,918 test_login.py[line:20] INFO ======test_login_zxw2017=====
+2018-08-07 16:42:33,918 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 16:42:33,918 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:42:33,918 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:42:34,445 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:42:34,974 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 16:42:37,949 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:42:37,949 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:42:39,330 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:42:40,717 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:42:42,325 loginView.py[line:41] INFO username is:17602888761
+2018-08-07 16:42:47,523 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:42:52,736 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:42:53,823 loginView.py[line:49] INFO login finished!
+2018-08-07 16:42:53,823 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 16:43:01,989 loginView.py[line:56] ERROR 登录失败!
+2018-08-07 16:43:01,989 common_fun.py[line:44] INFO get login fail screenshot
+2018-08-07 16:43:03,219 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 16:43:09,162 myunit.py[line:8] INFO =====setUp====
+2018-08-07 16:43:09,167 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:43:29,663 test_login.py[line:29] INFO ======test_login_error=====
+2018-08-07 16:43:29,664 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 16:43:29,664 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:43:29,665 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:43:30,203 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:43:30,711 common_fun.py[line:14] INFO =========check openBtn=============
+2018-08-07 16:43:34,563 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:43:34,563 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:43:35,982 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:43:37,387 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:43:39,104 loginView.py[line:41] INFO username is:666
+2018-08-07 16:43:44,326 loginView.py[line:44] INFO password is:222
+2018-08-07 16:43:49,465 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:43:53,100 loginView.py[line:49] INFO login finished!
+2018-08-07 16:43:53,100 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 16:44:01,497 loginView.py[line:56] ERROR 登录失败!
+2018-08-07 16:44:01,497 common_fun.py[line:44] INFO get login fail screenshot
+2018-08-07 16:44:02,746 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 16:49:53,942 run.py[line:20] INFO 开始执行测试...
+2018-08-07 16:49:53,943 myunit.py[line:8] INFO =====setUp====
+2018-08-07 16:49:53,944 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:50:11,023 test_login.py[line:21] INFO ======test_login_error=====
+2018-08-07 16:50:11,023 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 16:50:11,024 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:50:11,025 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:50:11,539 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:50:12,061 common_fun.py[line:14] INFO =========点击立即进入按钮=============
+2018-08-07 16:50:14,404 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:50:14,404 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:50:15,614 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:50:18,891 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:50:20,042 loginView.py[line:41] INFO username is:17602888761
+2018-08-07 16:50:25,199 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:50:30,363 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:50:31,509 loginView.py[line:49] INFO login finished!
+2018-08-07 16:50:31,509 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 16:50:39,741 loginView.py[line:56] ERROR 登录失败!
+2018-08-07 16:50:39,741 common_fun.py[line:44] INFO get login fail screenshot
+2018-08-07 16:50:40,958 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 16:50:46,898 myunit.py[line:8] INFO =====setUp====
+2018-08-07 16:50:46,902 desired_caps.py[line:32] INFO start app...
+2018-08-07 16:51:07,216 test_login.py[line:11] INFO =====test_login_pass======
+2018-08-07 16:51:07,217 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 16:51:07,217 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 16:51:07,218 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:51:07,744 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 16:51:08,288 common_fun.py[line:14] INFO =========点击立即进入按钮=============
+2018-08-07 16:51:10,671 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 16:51:10,672 loginView.py[line:32] INFO click mineBtn
+2018-08-07 16:51:12,394 loginView.py[line:35] INFO click userBtn
+2018-08-07 16:51:13,734 loginView.py[line:38] INFO click loginPwd
+2018-08-07 16:51:15,321 loginView.py[line:41] INFO username is:18380477273
+2018-08-07 16:51:20,594 loginView.py[line:44] INFO password is:111111
+2018-08-07 16:51:25,801 loginView.py[line:47] INFO click loginBtn
+2018-08-07 16:51:26,823 loginView.py[line:49] INFO login finished!
+2018-08-07 16:51:26,823 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 16:51:28,461 loginView.py[line:60] INFO 登录成功!
+2018-08-07 16:51:28,462 loginView.py[line:65] INFO =====退出登录======
+2018-08-07 16:51:29,826 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 17:00:10,817 run.py[line:20] INFO 开始执行测试...
+2018-08-07 17:00:10,818 myunit.py[line:8] INFO =====setUp====
+2018-08-07 17:00:10,821 desired_caps.py[line:32] INFO start app...
+2018-08-07 17:00:27,473 test_login.py[line:21] INFO ======test_login_error=====
+2018-08-07 17:00:27,473 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 17:00:27,474 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 17:00:27,474 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 17:00:28,030 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 17:00:28,562 common_fun.py[line:14] INFO =========点击立即进入按钮=============
+2018-08-07 17:00:31,216 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 17:00:31,217 loginView.py[line:32] INFO click mineBtn
+2018-08-07 17:00:32,456 loginView.py[line:35] INFO click userBtn
+2018-08-07 17:00:35,110 loginView.py[line:38] INFO click loginPwd
+2018-08-07 17:00:36,113 loginView.py[line:41] INFO username is:17602888761
+2018-08-07 17:00:41,338 loginView.py[line:44] INFO password is:111111
+2018-08-07 17:00:46,543 loginView.py[line:47] INFO click loginBtn
+2018-08-07 17:00:47,558 loginView.py[line:49] INFO login finished!
+2018-08-07 17:00:47,558 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 17:00:55,819 loginView.py[line:56] ERROR 登录失败!
+2018-08-07 17:00:55,819 common_fun.py[line:44] INFO get login fail screenshot
+2018-08-07 17:00:57,037 myunit.py[line:12] INFO ====tearDown====
+2018-08-07 17:01:03,006 myunit.py[line:8] INFO =====setUp====
+2018-08-07 17:01:03,009 desired_caps.py[line:32] INFO start app...
+2018-08-07 17:01:22,960 test_login.py[line:11] INFO =====test_login_pass======
+2018-08-07 17:01:22,961 common_fun.py[line:49] INFO =====get_csv_data======
+2018-08-07 17:01:22,961 loginView.py[line:25] INFO ============滑动跳过引导页==============
+2018-08-07 17:01:22,961 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 17:01:23,518 common_fun.py[line:29] INFO swipeLeft
+2018-08-07 17:01:24,062 common_fun.py[line:14] INFO =========点击立即进入按钮=============
+2018-08-07 17:01:26,960 loginView.py[line:30] INFO ============开始登录==============
+2018-08-07 17:01:26,960 loginView.py[line:32] INFO click mineBtn
+2018-08-07 17:01:27,965 loginView.py[line:35] INFO click userBtn
+2018-08-07 17:01:29,886 loginView.py[line:38] INFO click loginPwd
+2018-08-07 17:01:30,869 loginView.py[line:41] INFO username is:18380477273
+2018-08-07 17:01:36,147 loginView.py[line:44] INFO password is:111111
+2018-08-07 17:01:41,314 loginView.py[line:47] INFO click loginBtn
+2018-08-07 17:01:42,395 loginView.py[line:49] INFO login finished!
+2018-08-07 17:01:42,395 loginView.py[line:52] INFO ====检查登录结果======
+2018-08-07 17:01:44,199 loginView.py[line:60] INFO 登录成功!
+2018-08-07 17:01:44,199 common_fun.py[line:44] INFO get login success screenshot
+2018-08-07 17:01:46,254 loginView.py[line:67] INFO =====退出登录======
+2018-08-07 17:01:47,791 myunit.py[line:12] INFO ====tearDown====

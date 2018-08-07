@@ -1,0 +1,19 @@
+platformName: Android
+#模拟器
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62025
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname: com.fangmi.weilan.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage:  com.fangmi.weilan
+appActivity: com.fangmi.weilan.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
