@@ -46,7 +46,7 @@ class Common(BaseView):
 
 
     def get_csv_data(self,csv_file,line):
-        logging.info('=====get_csv_data======')
+        logging.info('=====获取账号数据======')
         with open(csv_file,'r',encoding='utf-8-sig') as file:
             reader=csv.reader(file)
             for index,row in enumerate(reader,1):
